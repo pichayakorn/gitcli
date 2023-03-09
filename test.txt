@@ -1,1 +1,2 @@
 Hello World, from first line.
+Hi, from second line.
